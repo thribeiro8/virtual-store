@@ -4,7 +4,7 @@ Uma aplicação simples de uma loja virtual para amostragem de produtos.
 
 ---
 
-## Instruções
+## Instruções:
 
 - Os _commits_ serão realizados ao longo do desenvolvimento, para ajudar a entender a linha de raciocínio;
 - O **README.md** irá conter as informações de _setup_ e a descrição do projeto;
@@ -17,7 +17,7 @@ OBS: Provedor em estudo ainda.
 
 ---
 
-## Dicas
+## Dicas:
 
 > Refatorar com ajuda de bibliotecas/frameworks ex: (react, vue, angular, bootstrap);
 
@@ -35,11 +35,11 @@ OBS: Provedor em estudo ainda.
 
 ---
 
-## ⚙️ Funcionalidades presentes:
+## ⚙️ Funcionalidades iniciais:
 
 - [ ] Amostragem de produtos.
 
-## ⚙️ Funcionalidades restantes:
+## ⚙️ Funcionalidades a implementar:
 
 - [ ] Login;
 - [ ] Logout.
